@@ -5,8 +5,9 @@ To install, grab python at https://python.org and get it set up
 
 then run these commands in a terminal
 
-pip install robloxpy
-pip install requests
+`pip install robloxpy`
+
+`pip install requests`
 
 and download the code and your good!
 
